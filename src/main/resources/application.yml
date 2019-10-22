@@ -2,4 +2,6 @@ server:
     port: 8090
 spring:
     redis:
-        port: 
+        port: 6379
+        host: 10.10.12.104
+        
